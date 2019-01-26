@@ -1,0 +1,13 @@
+Autor: Abdias Alvarado
+Clase: Programación Científica II
+Docente: Ing. Héctor Sabillón
+
+Nombre: Bomberman Evolution
+
+INSTRUCCIONES
+1. Ejecute el archivo Game.py
+2. Utilice las flechas direccionales para seleccionar una opción.
+3. Utilice las flechas direccionales para moverse dentro del juego.
+4. Presione la tecla "X" para plantar una bomba.
+5. Presione "Enter" para seleccionar una opción.
+
